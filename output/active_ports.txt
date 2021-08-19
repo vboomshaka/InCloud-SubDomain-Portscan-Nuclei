@@ -1,5 +1,3 @@
-52ml.net:443
-52ml.net:80
 account.yuansouti.com:443
 account.yuansouti.com:80
 account.zhenguanyu.com:443
@@ -14,6 +12,7 @@ ape-api.yuanfudao.com:443
 ape-api.yuanfudao.com:80
 ape-online.fbcontent.cn:443
 ape-online.fbcontent.cn:80
+ape-online.fbcontent.cn:8080
 api.checkmath.net:443
 api.checkmath.net:80
 athena.yuansouti.com:443
@@ -46,8 +45,7 @@ bx.zhenguanyu.com:8888
 bx.zhenguanyu.com:9999
 campus.yuantiku.com:80
 candy.fbcontent.cn:443
-candy.fbcontent.cn:8080
-candy.fbcontent.cn:8443
+candy.fbcontent.cn:80
 carp.yuanfudao.com:443
 carp.yuanfudao.com:80
 carp2.yuanfudao.com:443
@@ -96,8 +94,6 @@ conan2.yuanfudao.com:443
 conan2.yuanfudao.com:80
 cyber.fbcontent.cn:443
 cyber.fbcontent.cn:80
-discourse.zhenguanyu.com:443
-discourse.zhenguanyu.com:80
 engineering.yuantiku.com:80
 eva.yuanfudao.com:443
 eva.yuanfudao.com:80
@@ -135,7 +131,6 @@ hr.yuanfudao.com:80
 hr.yuantiku.com:80
 img-pub.fbcontent.cn:443
 img-pub.fbcontent.cn:80
-img-pub.fbcontent.cn:8080
 img-pub1.fbcontent.cn:443
 img-pub1.fbcontent.cn:80
 img-pub2.fbcontent.cn:443
@@ -148,6 +143,7 @@ jst.yuanfudao.com:22
 jst.yuanfudao.com:443
 jumbo.fbcontent.cn:443
 jumbo.fbcontent.cn:80
+jumbo.fbcontent.cn:8080
 jumbo1.fbcontent.cn:443
 jumbo1.fbcontent.cn:80
 ke.fbcontent.cn:443
@@ -180,7 +176,6 @@ live-public-online.fbcontent.cn:443
 live-public-online.fbcontent.cn:80
 live-replay-online.fbcontent.cn:443
 live-replay-online.fbcontent.cn:80
-live-replay-online.fbcontent.cn:8080
 live.yuanfudao.com:443
 live.yuanfudao.com:80
 lop.yuanfudao.com:8443
@@ -196,12 +191,14 @@ mail.zebraenglish.com:443
 mail.zebraenglish.com:80
 maple-online.fbcontent.cn:443
 maple-online.fbcontent.cn:80
-maple-online.fbcontent.cn:8080
 maple-online1.fbcontent.cn:443
 maple-online1.fbcontent.cn:80
 maple-online2.fbcontent.cn:443
 maple-online2.fbcontent.cn:80
 maple-online2.fbcontent.cn:8080
+mkt.fbcontent.cn:443
+mkt.fbcontent.cn:80
+mkt.fbcontent.cn:8080
 mkta.fbcontent.cn:443
 mkta.fbcontent.cn:80
 mkta1.fbcontent.cn:443
@@ -233,12 +230,11 @@ mywebtest.ybccode.com:80
 mywebtest.ybccode.com:8080
 nanguakexue.com:443
 nanguakexue.com:80
-ns2.zhenguanyu.com:53
-ns4.zhenguanyu.com:53
 op-testnginxx.zhenguanyu.com:443
 op-testnginxx.zhenguanyu.com:80
 planet.fbcontent.cn:443
 planet.fbcontent.cn:80
+planet.fbcontent.cn:8080
 planet.yuanfudao.com:443
 planet.yuanfudao.com:80
 planet.yuantiku.com:443
@@ -277,6 +273,8 @@ solar-replay-online.fbcontent.cn:8080
 solar-replay-online.fbcontent.cn:8081
 solar-static.fbcontent.cn:443
 solar-static.fbcontent.cn:80
+solar-static.fbcontent.cn:8080
+solar-static.fbcontent.cn:8443
 solar-universal.yuanfudao.com:443
 solar-universal.yuanfudao.com:80
 solar.fbcontent.cn:443
@@ -286,6 +284,7 @@ solar.yuansouti.com:443
 solar.yuansouti.com:80
 static-nginx-online.fbcontent.cn:443
 static-nginx-online.fbcontent.cn:80
+static-nginx-online.fbcontent.cn:8080
 static-nginx-online1.fbcontent.cn:443
 static-nginx-online1.fbcontent.cn:80
 static-nginx-online2.fbcontent.cn:443
@@ -302,6 +301,8 @@ test-m.fbcontent.cn:443
 test-m.fbcontent.cn:80
 test-m.yuanfudao.com:443
 test-m.yuanfudao.com:80
+top100school.com:443
+top100school.com:80
 tutor-live-biz-online.fbcontent.cn:443
 tutor-live-biz-online.fbcontent.cn:80
 tutor-live-biz1-online.fbcontent.cn:443
@@ -389,6 +390,8 @@ ybc.fbcontent.cn:443
 ybc.fbcontent.cn:80
 ybc1024.yuanfudao.com:443
 ybc1024.yuanfudao.com:80
+ybccode.com:443
+ybccode.com:80
 yd-tutor.yuanfudao.com:443
 yd-tutor.yuanfudao.com:80
 yd.yuanfudao.com:3389
@@ -413,8 +416,8 @@ ytk1.yuanfudao.biz:443
 ytk1.yuanfudao.biz:80
 yuanfudao.com:443
 yuanfudao.com:80
-yuansouti.com:443
-yuansouti.com:80
+yuantiku.com:443
+yuantiku.com:80
 zebraenglish.com:443
 zebraenglish.com:80
 zerbrajd.yuanfudao.com:443
